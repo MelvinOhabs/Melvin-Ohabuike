@@ -11,3 +11,13 @@ I’m a **Data Analyst & Aspiring Data Scientist** passionate about using data t
 - 🧮 **Machine Learning & Predictive Modeling** – build models that make data-driven forecasting simple  
 - 🧠 **Business Intelligence** – turn data pipelines into dashboards that help leaders make better calls  
 - 🧰 **Tools I Use:** Python, SQL, Power BI, Excel, scikit-learn, Pandas, Matplotlib  
+
+🎵 Beyond Data  
+When I’m not analyzing numbers, I’m probably **singing**, experimenting with new **AI ideas**, or writing about how data meets everyday life.  
+I believe creativity and logic aren’t opposites — they’re a powerful combo.  
+
+---
+
+### 🌍 Let’s Connect  
+💼 [LinkedIn](https://www.linkedin.com/in/melvinne)  
+📧 [Email Me](mailto:melvinohabuike@gmail.com)  
